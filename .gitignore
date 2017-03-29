@@ -1,0 +1,18 @@
+### Python template
+*.py[cod]
+
+# virtualenv
+venv/
+
+# Pycharm
+.idea
+
+# Office
+*.xlsx
+
+# Selenium
+geckodriver.log
+chromedriver*
+
+# Local Debug
+t.py
