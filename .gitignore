@@ -13,6 +13,8 @@ venv/
 # Selenium
 geckodriver.log
 chromedriver*
+phantomjs.exe
+ghostdriver.log
 
 # Local Debug
 t.py
